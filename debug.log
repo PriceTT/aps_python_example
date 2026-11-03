@@ -1,0 +1,37 @@
+[2024-11-14 08:18:10] : [INFO] : [2319122023.py:8] : Simulation 'basic_flash_drum' opened
+[2024-11-14 08:19:47] : [INFO] : [2319122023.py:8] : Simulation 'basic_flash_drum' opened
+[2024-11-14 08:21:49] : [INFO] : [2319122023.py:8] : Simulation 'basic_flash_drum' opened
+[2024-11-14 08:23:29] : [INFO] : [3207853750.py:2] : Simulation 'basic_flash_drum' opened
+[2024-11-14 08:26:00] : [ERROR] : [2416292093.py:15] : invalid status: name 'results' is not defined
+[2024-11-14 08:26:00] : [INFO] : [2416292093.py:22] : Simulation 'basic_flash_drum' completed
+[2024-11-14 08:27:45] : [ERROR] : [2552811712.py:16] : invalid status: name 'results' is not defined
+[2024-11-14 08:27:45] : [INFO] : [2552811712.py:23] : Simulation 'basic_flash_drum' completed
+[2024-11-14 08:29:06] : [INFO] : [2490218738.py:13] : Input Status: True Specification Status: True, Solve Status: True, air_flow: 53.90708363963425
+[2024-11-14 08:29:06] : [INFO] : [2490218738.py:14] : The Vapor flow rate is 46.09291636036575 and the Liquid flow rate is 53.90708363963425
+[2024-11-14 08:29:06] : [INFO] : [2490218738.py:24] : Simulation 'basic_flash_drum' completed
+[2024-11-14 08:29:24] : [INFO] : [1687187044.py:13] : Input Status: True Specification Status: True, Solve Status: True
+[2024-11-14 08:29:24] : [INFO] : [1687187044.py:14] : The Vapor flow rate is 46.09291636036575 and the Liquid flow rate is 53.90708363963425
+[2024-11-14 08:29:24] : [INFO] : [1687187044.py:24] : Simulation 'basic_flash_drum' completed
+[2024-11-14 08:29:52] : [INFO] : [4043727648.py:13] : Input Status: True Specification Status: True, Solve Status: True
+[2024-11-14 08:29:52] : [ERROR] : [4043727648.py:17] : invalid status: Invalid format specifier
+[2024-11-14 08:29:52] : [INFO] : [4043727648.py:24] : Simulation 'basic_flash_drum' completed
+[2024-11-14 08:30:29] : [INFO] : [2111075141.py:13] : Input Status: True Specification Status: True, Solve Status: True
+[2024-11-14 08:30:29] : [INFO] : [2111075141.py:14] : The Vapor flow rate is 46.09 and the Liquid flow rate is 53.91
+[2024-11-14 08:30:29] : [INFO] : [2111075141.py:24] : Simulation 'basic_flash_drum' completed
+[2024-11-14 09:38:27] : [INFO] : [3207853750.py:2] : Simulation 'basic_flash_drum' opened
+[2024-11-14 09:38:31] : [INFO] : [2111075141.py:13] : Input Status: True Specification Status: True, Solve Status: True
+[2024-11-14 09:38:31] : [INFO] : [2111075141.py:14] : The Vapor flow rate is 46.09 and the Liquid flow rate is 53.91
+[2024-11-14 09:38:31] : [INFO] : [2111075141.py:24] : Simulation 'basic_flash_drum' completed
+[2024-11-14 09:41:13] : [INFO] : [3207853750.py:2] : Simulation 'basic_flash_drum' opened
+[2024-11-14 09:41:22] : [INFO] : [1530185236.py:13] : Simulation 'basic_flash_drum' completed
+[2024-11-14 09:41:36] : [INFO] : [2111075141.py:13] : Input Status: True Specification Status: True, Solve Status: True
+[2024-11-14 09:41:36] : [INFO] : [2111075141.py:14] : The Vapor flow rate is 120.00 and the Liquid flow rate is 0.00
+[2024-11-14 09:41:36] : [INFO] : [2111075141.py:24] : Simulation 'basic_flash_drum' completed
+[2024-11-14 09:42:03] : [INFO] : [2448132522.py:13] : Simulation 'basic_flash_drum' completed
+[2024-11-15 11:19:26] : [INFO] : [3207853750.py:2] : Simulation 'basic_flash_drum' opened
+[2024-11-15 11:20:09] : [INFO] : [1662165060.py:13] : Simulation 'basic_flash_drum' completed
+[2024-11-15 11:20:58] : [INFO] : [2111075141.py:13] : Input Status: True Specification Status: True, Solve Status: True
+[2024-11-15 11:20:58] : [INFO] : [2111075141.py:14] : The Vapor flow rate is 35.91 and the Liquid flow rate is 84.09
+[2024-11-15 11:20:58] : [INFO] : [2111075141.py:24] : Simulation 'basic_flash_drum' completed
+[2024-11-20 13:13:46] : [INFO] : [3207853750.py:2] : Simulation 'basic_flash_drum' opened
+[2024-11-20 13:14:16] : [INFO] : [266095938.py:13] : Simulation 'basic_flash_drum' completed

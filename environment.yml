@@ -1,0 +1,26 @@
+name: aps-env
+channels:
+  - conda-forge
+  # We want to have a reproducible setup, so we don't want default channels,
+  # which may be different for different users. All required channels should
+  # be listed explicitly here.
+  #     * Navigate to project folder and run the command below to the create conda environment which reads the environment.yml file.  
+  #   ``` conda env create ```  
+  #   * Activate the virtual environment  with
+  #   ```conda activate aps-env```
+  #   * Install the packages using poetry (retry if it fails)
+  #   ``` poetry install -vvv  ```
+  #   * To update the packages 
+  #  ``` poetry update ```
+  #   * To remove the env
+  #  ``` conda env remove --name aps-env ```
+  #  * The interpreter path can be found by tying  ```which python```
+  - nodefaults
+dependencies:
+  - python=3.10.*
+  - pip
+  - poetry=1.1.15
+  - pythonnet   
+
+
+

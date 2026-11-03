@@ -1,0 +1,28 @@
+[tool.poetry]
+name = "scriptinginterface"
+version = "0.1.0"
+description = ""
+authors = ["Jason Price <jpr@novozymes.com>"]
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.13"
+simcentralconnect = {path = "packages/simcentralconnect"}
+numpy = "^1.26.0"
+pandas = "^2.1.1"
+matplotlib = "^3.8.0"
+scipy = "^1.11.2"
+plotly = "^5.17.0"
+openpyxl = "^3.1.2"
+statsmodels = "^0.14.0"
+scikit-learn = "^1.3.1"
+
+
+
+[tool.poetry.dev-dependencies]
+black = "*"
+jupyterlab = "*"
+ipykernel = "*"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
